@@ -1,3 +1,19 @@
+<div align="center">
+
+# ROS 2 & Robotics Engineering Deep-Study Notebook
+
+[![ROS 2 Humble](https://img.shields.io/badge/ROS%202-Humble-1F6FEB?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
+[![Linux](https://img.shields.io/badge/Linux-Ubuntu%2022.04-334155?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)
+[![Engineering Notes](https://img.shields.io/badge/Focus-Systems%20Engineering-2563EB?style=for-the-badge)](https://github.com/Yakhrevan/ros2-robotics-engineering-notebook)
+
+**A practical, systems-level study path from ROS 2 APIs to middleware, networking, real-time behavior, and robot integration.**
+
+[Profile](https://github.com/Yakhrevan) · [ROS Academy](https://github.com/Yakhrevan/ros-academy) · [Portfolio](https://yakhrevan.github.io/Yakhrevan-Portfolio/)
+
+</div>
+
+---
+
 # ROS 2 & Robotics Engineering Deep-Study Notebook
 
 > A long-term, self-contained study repository for becoming a **ROS 2 / Robotics Systems Engineer**, from ROS 2 application development down to DDS/RTPS, networking, real-time systems, security, hardware integration, perception, SLAM and autonomous navigation.
